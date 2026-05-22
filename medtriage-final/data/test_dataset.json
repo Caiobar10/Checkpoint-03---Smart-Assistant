@@ -1,0 +1,142 @@
+[
+    {
+        "id": "T01",
+        "texto": "Estou com febre alta de 39 graus há dois dias",
+        "tipo_esperado": "consulta",
+        "urgencia_esperada": "media",
+        "palavras_chave_resposta": ["consulta", "médico", "febre"]
+    },
+    {
+        "id": "T02",
+        "texto": "Estou com falta de ar e dor no peito",
+        "tipo_esperado": "emergencia",
+        "urgencia_esperada": "alta",
+        "palavras_chave_resposta": ["samu", "pronto-socorro", "imediatamente"]
+    },
+    {
+        "id": "T03",
+        "texto": "Como aliviar uma dor de cabeça tensional?",
+        "tipo_esperado": "informacao",
+        "urgencia_esperada": "baixa",
+        "palavras_chave_resposta": ["profissional", "médico", "orientação"]
+    },
+    {
+        "id": "T04",
+        "texto": "Sinto tonturas e náuseas ao me levantar da cama",
+        "tipo_esperado": "consulta",
+        "urgencia_esperada": "media",
+        "palavras_chave_resposta": ["consulta", "avaliação", "médico"]
+    },
+    {
+        "id": "T05",
+        "texto": "Perdi a consciência por alguns segundos e acordei confuso",
+        "tipo_esperado": "emergencia",
+        "urgencia_esperada": "alta",
+        "palavras_chave_resposta": ["samu", "emergência", "imediatamente"]
+    },
+    {
+        "id": "T06",
+        "texto": "Quais são os sintomas do diabetes tipo 2?",
+        "tipo_esperado": "informacao",
+        "urgencia_esperada": "baixa",
+        "palavras_chave_resposta": ["profissional", "médico", "orientação"]
+    },
+    {
+        "id": "T07",
+        "texto": "Minha pressão arterial marcou 180/110 agora",
+        "tipo_esperado": "emergencia",
+        "urgencia_esperada": "alta",
+        "palavras_chave_resposta": ["samu", "pronto-socorro", "urgente"]
+    },
+    {
+        "id": "T08",
+        "texto": "Tenho dor nas costas há uma semana, piora ao sentar",
+        "tipo_esperado": "consulta",
+        "urgencia_esperada": "media",
+        "palavras_chave_resposta": ["consulta", "médico", "avaliação"]
+    },
+    {
+        "id": "T09",
+        "texto": "O que é colesterol HDL e LDL?",
+        "tipo_esperado": "informacao",
+        "urgencia_esperada": "baixa",
+        "palavras_chave_resposta": ["profissional", "médico", "saúde"]
+    },
+    {
+        "id": "T10",
+        "texto": "Estou vomitando sangue",
+        "tipo_esperado": "emergencia",
+        "urgencia_esperada": "alta",
+        "palavras_chave_resposta": ["samu", "pronto-socorro", "imediatamente"]
+    },
+    {
+        "id": "T11",
+        "texto": "Tenho manchas vermelhas pelo corpo sem coceira",
+        "tipo_esperado": "consulta",
+        "urgencia_esperada": "media",
+        "palavras_chave_resposta": ["consulta", "médico", "dermatologista"]
+    },
+    {
+        "id": "T12",
+        "texto": "Como prevenir a gripe no inverno?",
+        "tipo_esperado": "informacao",
+        "urgencia_esperada": "baixa",
+        "palavras_chave_resposta": ["profissional", "saúde", "prevenção"]
+    },
+    {
+        "id": "T13",
+        "texto": "Estou com dificuldade para engolir há três dias",
+        "tipo_esperado": "consulta",
+        "urgencia_esperada": "media",
+        "palavras_chave_resposta": ["consulta", "médico", "avaliação"]
+    },
+    {
+        "id": "T14",
+        "texto": "Meu filho de 3 anos convulsionou agora",
+        "tipo_esperado": "emergencia",
+        "urgencia_esperada": "alta",
+        "palavras_chave_resposta": ["samu", "pronto-socorro", "imediatamente"]
+    },
+    {
+        "id": "T15",
+        "texto": "Qual a diferença entre vitamina D2 e D3?",
+        "tipo_esperado": "informacao",
+        "urgencia_esperada": "baixa",
+        "palavras_chave_resposta": ["profissional", "médico", "saúde"]
+    },
+    {
+        "id": "T16",
+        "texto": "Estou com dor intensa no lado direito do abdômen",
+        "tipo_esperado": "emergencia",
+        "urgencia_esperada": "alta",
+        "palavras_chave_resposta": ["pronto-socorro", "médico", "urgente"]
+    },
+    {
+        "id": "T17",
+        "texto": "Tenho insônia há mais de um mês",
+        "tipo_esperado": "consulta",
+        "urgencia_esperada": "media",
+        "palavras_chave_resposta": ["consulta", "médico", "avaliação"]
+    },
+    {
+        "id": "T18",
+        "texto": "Quais são os benefícios da atividade física para o coração?",
+        "tipo_esperado": "informacao",
+        "urgencia_esperada": "baixa",
+        "palavras_chave_resposta": ["saúde", "profissional", "médico"]
+    },
+    {
+        "id": "T19",
+        "texto": "Fui picado por uma cobra agora há pouco",
+        "tipo_esperado": "emergencia",
+        "urgencia_esperada": "alta",
+        "palavras_chave_resposta": ["samu", "pronto-socorro", "imediatamente"]
+    },
+    {
+        "id": "T20",
+        "texto": "Estou grávida de 8 semanas e sinto enjoo toda manhã, isso é normal?",
+        "tipo_esperado": "consulta",
+        "urgencia_esperada": "baixa",
+        "palavras_chave_resposta": ["consulta", "médico", "obstetra"]
+    }
+]

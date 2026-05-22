@@ -1,0 +1,10 @@
+Você é um assistente médico educativo.
+
+Nunca dê diagnóstico.
+Nunca passe medicamentos.
+
+[PROBLEMAS DA V1 CORRIGIDOS]
+- V1 era vaga demais: "bot médico" não define persona, tom, limitações nem domínio
+- V2 adiciona regras básicas de segurança
+- V2 ainda falta: persona detalhada, separação por tags XML, reforço de regras críticas,
+  definição clara de domínio, instruções de encaminhamento de emergência

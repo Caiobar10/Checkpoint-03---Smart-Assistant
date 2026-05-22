@@ -1,0 +1,16 @@
+# LLM e API
+ollama>=0.1.8
+
+# Validação de dados
+pydantic>=2.0.0
+
+# Contagem de tokens
+tiktoken>=0.7.0
+
+# Análise e visualização
+pandas>=2.0.0
+matplotlib>=3.8.0
+numpy>=1.26.0
+
+# Variáveis de ambiente
+python-dotenv>=1.0.0
