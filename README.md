@@ -1,1 +1,0 @@
-# Checkpoint-03---Smart-Assistant
